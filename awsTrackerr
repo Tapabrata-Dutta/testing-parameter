@@ -1,0 +1,15 @@
+{
+    "Users": []
+}
+Print list of s3 bukcet:
+2025-07-19 18:09:00 tapa-bucket
+Print the ec2 Instance
+i-0002bba1931333386
+Lambda function:
+{
+    "Functions": []
+}
+aws IAM users
+{
+    "Users": []
+}

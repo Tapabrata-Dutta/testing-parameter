@@ -1,0 +1,16 @@
+
+==== S3 Buckets ====
+2025-07-19 18:09:00 tapa-bucket
+
+==== EC2 Instances ====
+i-0002bba1931333386
+
+==== Lambda Functions ====
+{
+    "Functions": []
+}
+
+==== IAM Users ====
+{
+    "Users": []
+}
