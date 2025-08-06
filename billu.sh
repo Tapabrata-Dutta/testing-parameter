@@ -1,2 +1,3 @@
 echo "Hi, I'm a cat"
-echo "I'm his onwer"
+echo "I'm the owrner of house"
+
